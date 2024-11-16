@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/4ef5854252b74eaead2df1501e3dd622/artifacts
+end_time: 1731484374241
+entry_point_name: ''
+experiment_id: '853099972095872099'
+lifecycle_stage: active
+run_id: 4ef5854252b74eaead2df1501e3dd622
+run_name: RF
+run_uuid: 4ef5854252b74eaead2df1501e3dd622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731484365897
+status: 3
+tags: []
+user_id: muskaanjain

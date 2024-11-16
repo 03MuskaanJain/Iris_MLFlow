@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/af5cbe12c577490fa7b5525fea17ee4e/artifacts
+end_time: 1731482109313
+entry_point_name: ''
+experiment_id: '853099972095872099'
+lifecycle_stage: active
+run_id: af5cbe12c577490fa7b5525fea17ee4e
+run_name: suave-boar-183
+run_uuid: af5cbe12c577490fa7b5525fea17ee4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731482103894
+status: 3
+tags: []
+user_id: muskaanjain

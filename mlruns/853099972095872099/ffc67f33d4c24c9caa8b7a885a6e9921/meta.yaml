@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/ffc67f33d4c24c9caa8b7a885a6e9921/artifacts
+end_time: 1731484560965
+entry_point_name: ''
+experiment_id: '853099972095872099'
+lifecycle_stage: active
+run_id: ffc67f33d4c24c9caa8b7a885a6e9921
+run_name: SVM
+run_uuid: ffc67f33d4c24c9caa8b7a885a6e9921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731484555413
+status: 3
+tags: []
+user_id: muskaanjain

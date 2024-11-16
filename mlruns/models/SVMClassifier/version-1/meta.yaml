@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731484679925
+current_stage: None
+description: ''
+last_updated_timestamp: 1731484679925
+name: SVMClassifier
+run_id: 8595f7931d3943f4a7ee038c1728c2c3
+run_link: ''
+source: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/8595f7931d3943f4a7ee038c1728c2c3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/8595f7931d3943f4a7ee038c1728c2c3/artifacts/model
+user_id: null
+version: 1

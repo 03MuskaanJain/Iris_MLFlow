@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muskaanjain/Downloads/Data_ML_Ops/MLOps_CA2_Iris/mlruns/853099972095872099/7a97fbf008634b9387cc16401d2ea2fc/artifacts
+end_time: 1731484521019
+entry_point_name: ''
+experiment_id: '853099972095872099'
+lifecycle_stage: active
+run_id: 7a97fbf008634b9387cc16401d2ea2fc
+run_name: LogRegression
+run_uuid: 7a97fbf008634b9387cc16401d2ea2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731484514826
+status: 3
+tags: []
+user_id: muskaanjain
